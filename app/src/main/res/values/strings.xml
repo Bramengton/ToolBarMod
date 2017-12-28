@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBarMod</string>
+
+    <string name="_toplist">Top</string>
+    <string name="_search">Search</string>
+    <string name="_random">Random</string>
+    <string name="_saved">Saved</string>
+    <string name="_latest">New</string>
+
+</resources>

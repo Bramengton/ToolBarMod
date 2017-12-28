@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ic_tab_toplist"
+          android:icon="@drawable/alert_circle_outline"
+          android:title="@string/_toplist"/>
+
+    <item android:id="@+id/ic_tab_latest"
+          android:icon="@drawable/alert_circle_outline"
+          android:title="@string/_latest"/>
+
+    <item android:id="@+id/ic_tab_search"
+          android:icon="@drawable/alert_circle_outline"
+          android:title="@string/_search"/>
+
+    <item android:id="@+id/ic_tab_random"
+          android:icon="@drawable/alert_circle_outline"
+          android:title="@string/_random"/>
+
+    <item android:id="@+id/ic_tab_saved"
+          android:icon="@drawable/alert_circle_outline"
+          android:title="@string/_saved"/>
+</menu>
