@@ -6,4 +6,4 @@ This android Toobar enhanced by custom tab.
 
 
 Donate bitcoin: 3E7FLfNshJnXaLURiMRiR34fEQP5dwm3uy
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#46b798', 'K3K2745K');kofiwidget2.draw();</script> 
+Buy a Coffee: http://ko-fi.com/bramengton
